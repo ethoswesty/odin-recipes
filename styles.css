@@ -1,0 +1,13 @@
+.image-resize {
+    width: 35%;
+    height: auto;
+    translate: 300px;
+    
+}
+
+.container-mac {
+    width: 50%;
+    margin: 3.125rem auto 0 auto;
+    padding: 2.5rem 0.625rem;
+    background-color: cornflowerblue;
+}
