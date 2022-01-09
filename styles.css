@@ -8,8 +8,8 @@ body::before {
     z-index: -1;
     background-image: linear-gradient(
         115deg,
-        rgba(196, 86, 186, 0.7),
-        rgba(95, 0, 119, 0.5)), url(https://images.all-free-download.com/images/graphiclarge/cooking_icons_311353.jpg);
+        rgba(196, 86, 186, 0.6),
+        rgba(185, 0, 231, 0.5)), url(https://images.all-free-download.com/images/graphiclarge/cooking_icons_311353.jpg);
 }
 
 body {
@@ -31,7 +31,7 @@ body {
 .container-bolognese {
     width: 50%;
     margin: 0 auto 0 auto;
-    padding: 2.5rem 0.625rem;
+    padding: 2.5rem 0.85rem;
     background-color: rgba(100, 149, 237, 0.9);
     border-radius: 5%;
 }
